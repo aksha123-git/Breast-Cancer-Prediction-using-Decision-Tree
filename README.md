@@ -1,4 +1,6 @@
 # Breast-Cancer-Prediction-using-Decision-Tree
+Breast cancer cases have been on the rise in recent years, and the best approach to combat it is to detect it early and adopt appropriate preventive measures. To develop such a system with Python, the model can be trained on the IDC(Invasive Ductal Carcinoma) dataset, which provides histology images for cancer-inducing malignant cells. Convolutional Neural Networks are better suited for this project, and NumPy, OpenCV, TensorFlow, Keras, sci-kit-learn, and Matplotlib are among the Python libraries that can be utilized
+
 In this repository we predict breast Cancer. Breast cancer prediction using machine learning involves building a model that can predict whether a given breast mass or tumor is malignant (cancerous) or benign (non-cancerous) based on various features and characteristics of the mass.This is a critical application of machine learning in healthcare, as it can assist in early detection and diagnosis of breast cancer, potentially leading to better treatment outcomes.
 
 
